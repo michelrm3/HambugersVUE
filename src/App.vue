@@ -49,7 +49,7 @@ export default {
 h1 {
   color: black;
   text-align: center;
-  font-size: 42px;
+  font-size: 40px;
   margin-bottom: 30px;
 }
 body{
